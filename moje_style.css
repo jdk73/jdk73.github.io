@@ -11,7 +11,7 @@
 }
 
 body {
-  background-color: white;
+  background-color: #404040;
 
 }
 
@@ -31,10 +31,62 @@ ul{
   width:800px;
   background-color: grey;
   margin:auto;
+  padding:30px;
+  padding-top:1px;
 }
 .obrazek{
   padding-left: 125px;
   padding-right: 125px;
   width: 550px;
   height: 250px;
+}
+.title{
+  padding:0;
+}
+.imagine{
+
+  width: 500px;
+  height: 330px;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
+
+.clear{
+  float: clear;
+}
+
+.menu
+{
+float: left;
+padding: 30px;
+padding-top: 20px;
+padding-bottom: 20px;
+font-weight: 800;
+color: yellow;
+font-size: 18px;
+background-color: black;
+font-family: 'Open Sans', sans-serif;
+}
+
+.menu:hover
+{
+background-color: yellow;
+color: black;
+}
+
+#linki
+{
+background-color: black;
+}
+.obrazek1{
+  margin-right:10px;
+}
+.tekst{
+  text-align:justify;
 }
