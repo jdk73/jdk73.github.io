@@ -1,8 +1,16 @@
-body {
+body
+{
   background-color: #202020;
   color: #BBBBBB;
 }
 
-.well{
-  background-color: ;
+.well
+{
+  background-color: grey;
+}
+
+
+a
+{
+  color: yellow;
 }
