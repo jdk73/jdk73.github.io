@@ -1,3 +1,12 @@
 .center-text {
   text-align:center;
 }
+
+body{
+  background: url('tlo1.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.hpi{
+
+}
